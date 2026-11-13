@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://loot-latency-games.onrender.com/sitemap.xml
