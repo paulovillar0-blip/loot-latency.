@@ -1,1 +1,1 @@
-window.SITE_CONFIG={contactEmail:"",affiliateLinks:{controller:"",headset:"",keyboard:"",monitor:"",mouse:"",laptopstand:""}};
+window.SITE_CONFIG={contactEmail:"lootlatency.contact@gmail.com",affiliateLinks:{controller:"",headset:"",keyboard:"",monitor:"",mouse:"",laptopstand:""}};
